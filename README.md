@@ -1,5 +1,5 @@
 # Pokedex
-<b>COMO FOI CRIADO?</b>
+<p><b>COMO FOI CRIADO?</b></p>
 Este é o projeto Pokedex, que foi criado utilizando as linguagens de programação e marcação JavaScript, CSS e HTML.
 
 <b>COMO FUNCIONA?</b>  
